@@ -1,0 +1,23 @@
+{
+  "name": "jz-tree",
+  "version": "0.0.0",
+  "description": "一棵 JavaScript 的大樹，由小樹苗開始種植。",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwaycer/jz-tree.git"
+  },
+  "keywords": [
+    "讀者樹",
+    "jzTree"
+  ],
+  "author": "Bway.Cer",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/bwaycer/jz-tree/issues"
+  },
+  "homepage": "https://github.com/bwaycer/jz-tree"
+}
