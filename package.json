@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "一棵 JavaScript 的大樹，由小樹苗開始種植。",
   "main": "lib/index.js",
-  "dependencies": {},
+  "dependencies": {
+    "js-yaml": "^3.6.1"
+  },
   "devDependencies": {},
   "scripts": {},
   "repository": {
