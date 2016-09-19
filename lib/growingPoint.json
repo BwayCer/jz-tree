@@ -1,2 +1,8 @@
 [
+  {
+    "name": "jzSCode",
+    "classify": "pure",
+    "path": "./pure/jzSCode",
+    "medium": [ "log" ]
+  }
 ]
