@@ -1,8 +1,19 @@
 [
   {
+    "name": "url",
+    "classify": "orig",
+    "medium": null
+  },
+  {
     "name": "jzSCode",
     "classify": "pure",
     "path": "./pure/jzSCode",
     "medium": [ "log" ]
+  },
+  {
+    "name": "jzRoute",
+    "classify": "pure",
+    "path": "./node/jzRoute",
+    "medium": [ "url" ]
   }
 ]
