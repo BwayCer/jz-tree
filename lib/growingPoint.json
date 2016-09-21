@@ -7,19 +7,19 @@
   {
     "name": "jzSCode",
     "classify": "pure",
-    "path": "./pure/jzSCode",
+    "path": "./pure/jzSCode.js",
     "medium": [ "log" ]
   },
   {
     "name": "jzCmdParse",
     "classify": "node",
-    "path": "./node/jzCmdParse",
+    "path": "./node/jzCmdParse.js",
     "medium": null
   },
   {
     "name": "jzRoute",
     "classify": "node",
-    "path": "./node/jzRoute",
+    "path": "./node/jzRoute.js",
     "medium": [ "url" ]
   }
 ]
