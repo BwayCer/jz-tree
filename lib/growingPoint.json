@@ -11,6 +11,12 @@
     "medium": [ "log" ]
   },
   {
+    "name": "jzCmdParse",
+    "classify": "node",
+    "path": "./node/jzCmdParse",
+    "medium": null
+  },
+  {
     "name": "jzRoute",
     "classify": "pure",
     "path": "./node/jzRoute",
