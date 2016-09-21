@@ -1,2 +1,25 @@
 [
+  {
+    "name": "url",
+    "classify": "orig",
+    "medium": null
+  },
+  {
+    "name": "jzSCode",
+    "classify": "pure",
+    "path": "./pure/jzSCode",
+    "medium": [ "log" ]
+  },
+  {
+    "name": "jzCmdParse",
+    "classify": "node",
+    "path": "./node/jzCmdParse",
+    "medium": null
+  },
+  {
+    "name": "jzRoute",
+    "classify": "pure",
+    "path": "./node/jzRoute",
+    "medium": [ "url" ]
+  }
 ]
