@@ -5,6 +5,12 @@
     "medium": null
   },
   {
+    "name": "jzSupport",
+    "classify": "pure",
+    "path": "./pure/jzSupport.js",
+    "medium": null
+  },
+  {
     "name": "jzLog",
     "classify": "pure",
     "path": "./pure/jzLog.js",
